@@ -19,7 +19,11 @@ class Todo:
         return f'{self.code_id}-{self.title}'
 
 class TodoBook:
-    def __init__(self, todos: dict[]):
+    def __init__(self, todos):
+        self.todos: dict = {}
+
+    def
+
 
 
 
